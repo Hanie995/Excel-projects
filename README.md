@@ -9,5 +9,5 @@ Here I have put all the functions and data visualisation skills that I have in E
 - implement VLOOKUP,
 - use pivot tables,
 - split and concatenate text, 
-- and more.
+- create a connected dashboard.
 This was an Excel tutorial that I followed on YouTube.
