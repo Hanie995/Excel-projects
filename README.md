@@ -1,5 +1,5 @@
 # Excel-projects
-Here I have put all the functions and data visualisation skills that I have in Excel. I have done 6 real-world projects to show how to: 
+Here I have put all the functions and data visualisation skills that I have in Excel. I have done 10 real-world projects to show how to: 
 - enter data,
 - navigate through a spreadsheet,
 - create formulas to solve problems,
